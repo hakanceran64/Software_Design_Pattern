@@ -17,7 +17,7 @@ class Sample{
 		Sample(void);
 	
 	public:
-		// Singleton nesne yaratýcý fonksiyon
+		// Singleton nesne yaratÄ±cÄ± fonksiyon
 		static Sample* CreateObject(void);
 		void SetData(int val);
 		int GetData(void);
