@@ -1,8 +1,8 @@
 /*
- * @Author:
- * @Date:
- * @Content: Singleton tasarım deseni:
- *           bir sınıfın somutlaştırılmasını tek bir nesneyle sınırlamak için kullanılan bir yazılım tasarım ilkesidir.
+ * @Author: Hakan CERAN
+ * @Date: 16.08.2022
+ * @Content: Singleton tasarÄ±m deseni:
+ *           bir sÄ±nÄ±fÄ±n somutlaÅŸtÄ±rÄ±lmasÄ±nÄ± tek bir nesneyle sÄ±nÄ±rlamak iÃ§in kullanÄ±lan bir yazÄ±lÄ±m tasarÄ±m ilkesidir.
  */
 
 #include <iostream>
