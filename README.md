@@ -8,11 +8,11 @@ Software design pattern
 
 - ### <a href="Singleton/">Singleton</a>
 
-- ### <a href="Factory">Factory Method</a>
+- ### <a href="Factory/">Factory Method</a>
 
 - ### Abstrac Factory
 
-- ### Builder
+- ### <a href="Builder/">Builder</a>
 
 - ### Prototype
 
