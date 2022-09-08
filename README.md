@@ -8,7 +8,7 @@ Software design pattern
 
 - ### <a href="Singleton/">Singleton</a>
 
-- ### Factory Method
+- ### <a href="Factory">Factory Method</a>
 
 - ### Abstrac Factory
 
