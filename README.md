@@ -6,7 +6,7 @@ Software design pattern
 
 ## Creational
 
-- ### Singleton
+- ### <a href="Singleton/README.md">Singleton</a>
 
 - ### Factory Method
 
