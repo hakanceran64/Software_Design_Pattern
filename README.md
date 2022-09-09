@@ -14,7 +14,7 @@ Software design pattern
 
 - ### <a href="Builder/">Builder</a>
 
-- ### Prototype
+- ### <a href="Prototype/">Prototype</a>
 
 ---
 
