@@ -10,7 +10,7 @@ Software design pattern
 
 - ### <a href="Factory/">Factory Method</a>
 
-- ### Abstrac Factory
+- ### <a href="Abstrac/">Abstrac Factory</a>
 
 - ### <a href="Builder/">Builder</a>
 
