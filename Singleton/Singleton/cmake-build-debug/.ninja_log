@@ -1,0 +1,11 @@
+# ninja log v5
+2	401	6917738697180000	build.ninja	9de8472124e819be
+3	354	6917733716990000	CMakeFiles/Singleton.dir/main.cpp.obj	41cbb3d6fa70246b
+375	552	6917733718910000	Singleton.exe	f4f9a1c7d4041c08
+3	417	6917738697180000	build.ninja	9de8472124e819be
+5	431	6917738703390000	CMakeFiles/Singleton.dir/main.cpp.obj	41cbb3d6fa70246b
+8	442	6917738703470000	CMakeFiles/Singleton.dir/Singleton.cpp.obj	15121fff7ccba9b5
+443	659	6917738705560000	Singleton.exe	1a7634cfb15c5b83
+5	437	6917739295740000	CMakeFiles/Singleton.dir/Singleton.cpp.obj	15121fff7ccba9b5
+9	447	6917739295830000	CMakeFiles/Singleton.dir/main.cpp.obj	41cbb3d6fa70246b
+449	682	6917739298090000	Singleton.exe	1a7634cfb15c5b83

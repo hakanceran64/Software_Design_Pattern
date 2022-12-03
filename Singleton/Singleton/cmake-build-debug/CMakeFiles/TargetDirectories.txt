@@ -1,0 +1,3 @@
+C:/Users/hakan/CERAN64/My Drive/C++/Projects/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir
+C:/Users/hakan/CERAN64/My Drive/C++/Projects/Singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hakan/CERAN64/My Drive/C++/Projects/Singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
