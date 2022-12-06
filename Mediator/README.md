@@ -1,7 +1,8 @@
 # Mediator Design Pattern
 
 ## UML Diagram
-![Hakan](doc\Mediator.png)
+![Hakan](doc/Mediator.png)
+-> Daha büyük boyut için yeni sekmede açın.
 
 ## Output
 
